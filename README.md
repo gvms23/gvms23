@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Olá! 👋</h2> 
+  <h2 align="center">Olá, meu nome é Gabriel! 👋</h2> 
   
   <p align="center">
     <a href="https://www.linkedin.com/in/gvms23/">Linkedin</a>&nbsp;&nbsp;&nbsp;:star:&nbsp;&nbsp;&nbsp;
