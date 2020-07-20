@@ -1,6 +1,6 @@
 <img src="https://www.teluxsystems.com/wp-content/uploads/2019/04/bespoke-telux-800px.png" width="200"/>
 
-### 👋 Hello, I'm Gabriel Vicente (gvms23)!
+### 👋🏾 Hello, I'm Gabriel Vicente (gvms23)!
 💻 Senior Software Engineer at [@ZupIT](https://www.zup.com.br/) <br>
 🏡 Jacarei, Sao Paulo, Brazil. 
 
