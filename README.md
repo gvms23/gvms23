@@ -6,6 +6,7 @@
 
 ### 🔧 Skills
 Languages and Frameworks: .NET, .NET Core, Node.js, Angular, AngularJS, JQuery, PHP, JavaScript, TypeScrypt, CSS, HTML5.
+<br>
 Design Patterns and Architecture Patterns: DDD, TDD, Kafka, Microservices, CQRS, Event Sourcing, SOLID, etc.
 
 ### 🌎 Some links
