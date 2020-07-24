@@ -5,6 +5,8 @@ I'm Gabriel Vicente <br>
 💻 Senior Software Engineer at [@ZupIT](https://www.zup.com.br/) <br>
 🏡 Jacarei, Sao Paulo, Brazil. 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gvms23.visitor-badge)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvms23&show_icons=true)
 
 ## 🔧 Skills
