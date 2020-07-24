@@ -1,5 +1,3 @@
-<img src="https://www.teluxsystems.com/wp-content/uploads/2019/04/bespoke-telux-800px.png" width="200"/>
-
 # 👋🏾 Hi there!
 I'm Gabriel Vicente <br>
 💻 Senior Software Engineer at [@ZupIT](https://www.zup.com.br/) <br>
@@ -20,3 +18,5 @@ Design Patterns and Architecture Patterns: DDD, TDD, Kafka, Microservices, CQRS,
 💻 https://gabrielvicente.ch <br>
 🎥 https://www.youtube.com/channel/UCXGRzlZwxvg4z2IZrcU1rzA
 
+
+<img src="https://www.teluxsystems.com/wp-content/uploads/2019/04/bespoke-telux-800px.png" width="200"/>
